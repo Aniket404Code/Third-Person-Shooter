@@ -15,14 +15,18 @@ A third-person action shooter built in Unreal Engine 5, focused on shooting mech
 - Navigation System
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="SimpleShooter" src="https://github.com/user-attachments/assets/aba268d6-fdc6-4aa2-a287-aaed11f1b67e" />
 
-![1](screenshots/1.png)
-![2](screenshots/2.png)
+<img width="1920" height="1080" alt="SimpleShooter1" src="https://github.com/user-attachments/assets/f59c4191-d419-4e57-850f-06f8769544c7" />
+
+<img width="1920" height="1080" alt="BehaviorTree" src="https://github.com/user-attachments/assets/40aaaeae-fbda-4ef8-a3b1-0e30e17bc705" />
 
 ## 🎥 Gameplay Demo
-Coming soon...
 
-https://github.com/user-attachments/assets/53a4ff4d-2867-4936-835e-22c4b725acf1
+
+https://github.com/user-attachments/assets/2da34aab-f6cf-4f33-92d7-84181cf66464
+
+
 
 
  
