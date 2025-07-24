@@ -1,6 +1,9 @@
 # 🔫 Third-Person Shooter Game with AI Enemies
 
-A third-person action shooter built in Unreal Engine 5, focused on shooting mechanics and AI behavior.
+🎮 Game Overview
+Third-Person Shooter is a basic combat prototype built using Unreal Engine 5. In this game, the player controls a character in a third-person perspective, equipped with a gun to shoot AI enemies. The project focuses on core gameplay mechanics like shooting, health management, enemy behavior using Behavior Trees, and responsive animations. Ideal for learning Unreal's gameplay framework and AI system.
+
+
 
 ## 🎯 Features
 - Third-person movement, camera, and aiming
